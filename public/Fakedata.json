@@ -1,0 +1,101 @@
+[
+    {
+        "name": "Virat Kohli",
+        "id": 1,
+        "role": "Batsman",
+        "country": "India",
+        "age": 35,
+        "batting_style": "Right-hand bat",
+        "bowling_style": "Right-arm medium",
+        "image_url": "https://i.postimg.cc/9Qf8hyy2/download.jpg",
+        "Price": 1000
+    },
+    {
+        "name": "Kane Williamson",
+        "id": 2,
+        "role": "Batsman",
+        "country": "New Zealand",
+        "age": 33,
+        "batting_style": "Right-hand bat",
+        "bowling_style": "Right-arm offbreak",
+        "image_url": "https://i.postimg.cc/YSZy8jGH/download.jpg",
+        "Price": 1200
+    },
+    {
+        "name": "Pat Cummins",
+        "id": 3,
+        "role": "Bowler",
+        "country": "Australia",
+        "age": 30,
+        "batting_style": "Right-hand bat",
+        "bowling_style": "Right-arm fast",
+        "image_url": "https://i.postimg.cc/65fgw9Sr/images.jpg",
+        "Price": 1300
+    },
+    {
+        "name": "Ben Stokes",
+        "id": 4,
+        "role": "All-rounder",
+        "country": "England",
+        "age": 32,
+        "batting_style": "Left-hand bat",
+        "bowling_style": "Right-arm fast-medium",
+        "image_url": "https://i.postimg.cc/T18F2hf9/60783660873ea9455711a937-Th-Ben-Stokes-Celebrates.jpg",
+        "Price": 1400
+    },
+    {
+        "name": "Shakib Al Hasan",
+        "id": 5,
+        "role": "All-rounder",
+        "country": "Bangladesh",
+        "age": 36,
+        "batting_style": "Left-hand bat",
+        "bowling_style": "Left-arm orthodox",
+        "image_url": "https://i.postimg.cc/3Rxzfz9X/download.jpg",
+        "Price": 900
+    },
+    {
+        "name": "Rashid Khan",
+        "id": 6,
+        "role": "Bowler",
+        "country": "Afghanistan",
+        "age": 25,
+        "batting_style": "Right-hand bat",
+        "bowling_style": "Right-arm legbreak",
+        "image_url": "https://i.postimg.cc/YqBBMDSH/news-1722331502112.avif",
+        "Price": 800
+    },
+    {
+        "name": "Joe Root",
+        "id": 7,
+        "role": "Batsman",
+        "country": "England",
+        "age": 33,
+        "batting_style": "Right-hand bat",
+        "bowling_style": "Right-arm offbreak",
+        "image_url": "https://i.postimg.cc/6p1RJPck/download.jpg",
+        "Price": 1000
+    },
+    {
+        "name": "Jasprit Bumrah",
+        "id": 8,
+        "role": "Bowler",
+        "country": "India",
+        "age": 30,
+        "batting_style": "Right-hand bat",
+        "bowling_style": "Right-arm fast",
+        "image_url": "https://i.postimg.cc/7hDJnrP2/images.jpg",
+        "Price": 800
+    },
+    {
+        "name": "David Warner",
+        "id": 9,
+        "role": "Batsman",
+        "country": "Australia",
+        "age": 37,
+        "batting_style": "Left-hand bat",
+        "bowling_style": "Right-arm legbreak",
+        "image_url": "https://i.postimg.cc/zGLvWGwQ/download.jpg",
+        "Price": 1400
+    }
+]

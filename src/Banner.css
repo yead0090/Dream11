@@ -1,0 +1,29 @@
+.banner {
+    background-image: url(/assets/bg-shadow.png);
+
+    background-color: black;
+    max-width: 1152px;
+
+
+}
+
+.gradient-btn {
+    background-color: #4158D0;
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+
+}
+
+.gradient-bg {
+    background-image: linear-gradient(to right top, #5b56d4, #7e74dd, #9d92e6, #bab1ee, #d7d1f5, #ded4f1, #e3d7ee, #e6daeb, #ddbed8, #d8a2bd, #d2859d, #c96a77);
+}
+
+.y-btn {
+    background-color: yellow;
+    font-weight: bold;
+}
+
+#av-btn{
+    background-color: yellow;
+    font-weight: bold;
+}
+
