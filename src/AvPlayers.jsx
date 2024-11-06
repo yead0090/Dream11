@@ -13,7 +13,7 @@ const AvPlayers = ({players ,handleSelPlayer}) => {
     return (
         <div>
             
-            <div className='grid grid-cols-3 gap-8 max-w-6xl mx-auto mt-11 mb-60 '>
+            <div className='grid grid-cols-1 md:grid-cols-3 gap-8 max-w-6xl mx-auto mt-11 mb-60 '>
             
             {
             players.map((player)=><AvPlayer handleSelPlayer={handleSelPlayer} key={player.id} player={player}></AvPlayer>)

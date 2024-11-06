@@ -5,10 +5,10 @@ const Footer = () => {
         <div className="">
            
             <div className="bg-[#02051f] pt-52 pb-6 z-3 relative max-w-7xl mx-auto">
-            <div className=" gradient-bg  absolute -top-32  left-1/2 -translate-x-1/2 z-2  border border-green-200 text-center flex flex-col items-center p-14 w-3/5  rounded-xl">
+            <div className=" gradient-bg  absolute -top-32  left-1/2 -translate-x-1/2 z-2  border border-green-200 text-center flex flex-col items-center p-14 md:w-3/5  rounded-xl">
             <p className="text-3xl font-bold ">Subscribe to our Newsletter</p>
             <p className="my-4">Get the latest updates and news right in your inbox!</p>
-            <div className="flex gap-2">
+            <div className="md:flex gap-2">
             <input className="border border-green-300 rounded-xl px-8 py-2" type="Email" name="" placeholder="Enter your email" id="" />
             <button className="rounded-xl px-5  font-bold py-2 text-black gradient-btn">Subscribe</button>
             </div>
@@ -16,7 +16,7 @@ const Footer = () => {
             <div className="mb-14  justify-center flex">
              <img className="" src="/assets/logo-footer.png "alt="" />
             </div>
-            <div className=" flex justify-around">
+            <div className=" md:flex md:flex-row justify-around">
                 
                 <div> <p className="text-white font-bold text-lg">About Us</p>
                     <p className=" text-slate-600">We are a passionate team <br /> dedicated to providing the best <br /> services to our customers.</p></div>
